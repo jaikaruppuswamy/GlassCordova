@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.ge.capital.cdf.mobile.DealerGlass { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.rossgerbasi.cordova.glass.GoogleGlassActivity { <init>(...); }
+

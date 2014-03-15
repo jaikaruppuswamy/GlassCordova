@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ge.capital.cdf.mobile" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>GlassCordova</name>
+    <description>
+        Cordova app on Google Glass
+    </description>
+    <author email="jai.karuppuswamy@gmail.com" href="http://twitter.com/jaikaruppuswamy">
+        Jai Karuppuswamy
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
